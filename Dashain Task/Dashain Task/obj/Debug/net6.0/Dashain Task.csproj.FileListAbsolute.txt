@@ -1,0 +1,15 @@
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.exe
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.deps.json
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.runtimeconfig.json
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\bin\Debug\net6.0\Dashain Task.pdb
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.csproj.AssemblyReference.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.AssemblyInfoInputs.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.AssemblyInfo.cs
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.csproj.CoreCompileInputs.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\refint\Dashain Task.dll
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.pdb
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\Dashain Task.genruntimeconfig.cache
+E:\Islington Classes\Semester-5\Application Development\Workshop\Dashain Task\Dashain Task\obj\Debug\net6.0\ref\Dashain Task.dll
